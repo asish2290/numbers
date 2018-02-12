@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" without BOM?>
 <project name="Numbers" default="compile" basedir=".">
    <description>Project build file</description>
    <property name="jar" value="Numbers.jar"/>
